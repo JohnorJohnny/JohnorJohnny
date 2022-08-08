@@ -28,13 +28,13 @@ I am a student of the Russian technological university MIREA. I am a python prog
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/darshanr27/darshanr27/master/Assets/python.png" width="45" height="45" alt="Python" /></a>
 &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/egormkn/672764e7ce3bdaf549b62a5e70eece79/raw/559e34c690ea4765001d4ba0e715106edea7439f/jupyter-lab.svg" width="45" height="45" alt="TypeScript" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/egormkn/672764e7ce3bdaf549b62a5e70eece79/raw/559e34c690ea4765001d4ba0e715106edea7439f/jupyter-lab.svg" width="45" height="45" alt="TypeScript" /></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png?v=637737823900000000" width="45" height="45" alt="HTML5" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png?v=637737823900000000" width="45" height="45" alt="HTML5" /></a>
 &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" width="45" height="45" alt="React" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" width="45" height="45" alt="React" /></a>
 &nbsp;
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" width="45" height="45" alt="React" /></a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" width="45" height="45" alt="React" /></a>
 
 ## Socials
 
